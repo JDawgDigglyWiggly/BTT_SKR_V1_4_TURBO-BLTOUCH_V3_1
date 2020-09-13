@@ -4,16 +4,16 @@
 Configuation and Configuation.adv files provided to illustrate error of BLTouch failure to deply while homing or ABL.
 
 
-/*
-INTENDED RESULT:
 
+*INTENDED RESULT:
 
 SKR 1.4 TURBO
 TMC2209 (DIAG PINS REMOVED)
 BLTOUCH 3.1 (CONNECTED TO Z_MIN_ENDSTOP AND SERVOS PINS)
-/**
 
-/*
-ACTUAL RESULT:
+
+
+*ACTUAL RESULT:
+
 EVERYTHING ELSE WORKS ASIDE FROM BLTOUCH NOT DEPLOYING DURING Z HOMING OR BED LEVELING
-/**
+
