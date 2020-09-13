@@ -9,7 +9,7 @@ Configuation and Configuation.adv files provided to illustrate error of BLTouch 
 
 SKR 1.4 TURBO
 TMC2209 (DIAG PINS REMOVED)
-BLTOUCH 3.1 (CONNECTED TO Z_MIN_ENDSTOP AND SERVOS PINS)
+BLTOUCH 3.1 (CONNECTED TO ZMIN AND SERVOS PINS)
 
 
 
